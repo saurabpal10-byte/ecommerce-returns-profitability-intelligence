@@ -1,0 +1,178 @@
+
+======================================================================
+1. BASIC DATA QUALITY
+======================================================================
+
+customers.csv
+Rows: 3,000
+Columns: 12
+Missing cells: 34
+Duplicate full rows: 0
+Duplicate customer_id: 0
+
+orders.csv
+Rows: 14,000
+Columns: 20
+Missing cells: 1,246
+Duplicate full rows: 0
+Duplicate order_id: 0
+Duplicate customer_id: 11,028
+
+order_items.csv
+Rows: 29,671
+Columns: 11
+Missing cells: 0
+Duplicate full rows: 0
+Duplicate order_item_id: 0
+Duplicate order_id: 15,671
+Duplicate product_id: 29,326
+
+products.csv
+Rows: 345
+Columns: 10
+Missing cells: 0
+Duplicate full rows: 0
+Duplicate product_id: 0
+
+returns.csv
+Rows: 2,433
+Columns: 15
+Missing cells: 0
+Duplicate full rows: 0
+Duplicate return_id: 0
+Duplicate order_id: 210
+Duplicate order_item_id: 0
+Duplicate product_id: 2,092
+Duplicate customer_id: 824
+
+======================================================================
+2. MISSING VALUES BY COLUMN
+======================================================================
+
+customers.csv
+first_order_date    34
+
+orders.csv
+delivery_days    1246
+
+order_items.csv
+No missing values.
+
+products.csv
+No missing values.
+
+returns.csv
+No missing values.
+
+======================================================================
+3. ORDER STATUS AND DELIVERY DAYS
+======================================================================
+
+Order status counts:
+order_status
+Delivered     12030
+Cancelled       807
+Shipped         724
+Processing      439
+
+Missing delivery_days by order status:
+              total  missing
+order_status                
+Cancelled       807      807
+Delivered     12030        0
+Processing      439      439
+Shipped         724        0
+
+Delivery days summary:
+count    12754.000000
+mean         6.487220
+std          3.458874
+min          1.000000
+25%          3.000000
+50%          6.000000
+75%          9.000000
+max         12.000000
+Orders with negative delivery_days: 0
+
+======================================================================
+4. CUSTOMER-ORDER RELATIONSHIPS
+======================================================================
+Unique customer IDs: 3000
+Unique customer IDs referenced by orders: 2972
+Order customer IDs not found in customers: 0
+
+======================================================================
+5. ORDER-ITEM RELATIONSHIPS
+======================================================================
+Orders: 14000
+Orders referenced by order items: 14000
+Item order IDs not found in orders: 0
+
+======================================================================
+6. PRODUCT RELATIONSHIPS
+======================================================================
+Products: 345
+Products referenced by order items: 345
+Item product IDs not found in products: 0
+
+======================================================================
+7. RETURN RELATIONSHIPS
+======================================================================
+Return item IDs not found in order_items: 0
+Returns with mismatched order IDs: 0
+
+======================================================================
+8. PROFIT VALIDATION
+======================================================================
+Order items: 29671
+Profit formula mismatches (tolerance $0.02): 0
+Average line profit USD: 81.17
+Median line profit USD: 54.36
+Total recorded line profit USD: 2408357.08
+Negative-profit items: 484
+Zero-profit items: 0
+Average negative line profit USD: -26.13
+Median negative line profit USD: -15.24
+Minimum line profit USD: -266.14
+
+======================================================================
+9. REFUND AND RETURN REASON ANALYSIS
+======================================================================
+Total returns: 2433
+Total refund USD: 410427.05
+Average refund USD: 168.69
+Zero refunds: 0
+Negative refunds: 0
+Missing or nonnumeric refunds: 0
+
+Return reasons:
+return_reason
+Wrong size or fit            719
+Not as described             487
+Changed mind                 409
+Damaged on arrival           312
+Quality below expectation    302
+Late delivery                204
+
+======================================================================
+10. RETURN QUANTITY VALIDATION
+======================================================================
+Return quantity column not found; quantity check skipped.
+
+======================================================================
+11. RETURN DATE VALIDATION
+======================================================================
+Invalid return dates or returns before order date: 1969
+
+======================================================================
+12. CUSTOMER FIRST-ORDER DATE VALIDATION
+======================================================================
+Customers missing first_order_date: 34
+Missing first_order_date but lifetime_orders > 0: 0
+Missing first_order_date but lifetime_spend_usd > 0: 0
+
+======================================================================
+AUDIT COMPLETE
+======================================================================
+No source CSV files were modified by this script.
+Audit script completed successfully.

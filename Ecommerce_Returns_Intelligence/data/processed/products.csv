@@ -1,0 +1,346 @@
+product_id,product_name,category,subcategory,brand,list_price_usd,unit_cost_usd,weight_kg,launch_date,is_active
+PRD-0001,Northline Footwear 0001,Apparel,Footwear,Northline,105.82,51.08,4.97,2023-06-26,Yes
+PRD-0002,Solstice T-Shirt 0002,Apparel,T-Shirts,Marlowe,90.07,42.16,3.56,2023-11-15,Yes
+PRD-0003,Ferrix Footwear 0003,Apparel,Footwear,Brightfold,127.19,56.37,0.44,2022-11-04,Yes
+PRD-0004,Vantia Dresse 0004,Apparel,Dresses,Kestrel,82.41,34.3,5.59,2023-11-30,Yes
+PRD-0005,Brightfold Footwear 0005,Apparel,Footwear,Northline,28.14,13.37,4.37,2022-01-01,Yes
+PRD-0006,Corvid Footwear 0006,Apparel,Footwear,Vantia,135.56,64.59,0.51,2023-05-29,Yes
+PRD-0007,Northline Jacket 0007,Apparel,Jackets,Ferrix,110.39,53.59,2.03,2021-10-03,No
+PRD-0008,Vantia Footwear 0008,Apparel,Footwear,Kestrel,110.53,48.85,3.15,2022-01-11,Yes
+PRD-0009,Tanuki T-Shirt 0009,Apparel,T-Shirts,Marlowe,117.71,53.56,1.02,2022-11-13,Yes
+PRD-0010,Tanuki T-Shirt 0010,Apparel,T-Shirts,Tanuki,93.6,42.08,3.19,2022-11-12,Yes
+PRD-0011,Northline Footwear 0011,Apparel,Footwear,Tanuki,169.52,70.53,4.75,2022-02-13,Yes
+PRD-0012,Brightfold Jacket 0012,Apparel,Jackets,Ferrix,150.9,64.11,1.87,2022-01-17,Yes
+PRD-0013,Auralis T-Shirt 0013,Apparel,T-Shirts,Ferrix,72.04,33.86,2.4,2021-08-29,Yes
+PRD-0014,Auralis Footwear 0014,Apparel,Footwear,Brightfold,108.87,48.92,3.98,2023-10-31,Yes
+PRD-0015,Corvid T-Shirt 0015,Apparel,T-Shirts,Vantia,172.56,79.34,5.82,2023-08-09,Yes
+PRD-0016,Solstice Footwear 0016,Apparel,Footwear,Northline,164.6,76.61,3.01,2023-02-26,No
+PRD-0017,Vantia Jacket 0017,Apparel,Jackets,Vantia,92.34,43.81,4.43,2021-08-29,No
+PRD-0018,Corvid Dresse 0018,Apparel,Dresses,Brightfold,80.02,38.54,2.57,2022-11-14,Yes
+PRD-0019,Brightfold T-Shirt 0019,Apparel,T-Shirts,Northline,37.01,16.09,3.08,2023-04-02,Yes
+PRD-0020,Tanuki Jacket 0020,Apparel,Jackets,Solstice,46.57,19.39,1.82,2022-01-24,Yes
+PRD-0021,Kestrel Dresse 0021,Apparel,Dresses,Auralis,104.62,44.85,5.71,2023-11-19,Yes
+PRD-0022,Ferrix Dresse 0022,Apparel,Dresses,Tanuki,89.77,38.54,0.81,2022-05-12,Yes
+PRD-0023,Kestrel T-Shirt 0023,Apparel,T-Shirts,Marlowe,155.06,72.51,1.9,2022-01-16,Yes
+PRD-0024,Ferrix T-Shirt 0024,Apparel,T-Shirts,Brightfold,74.83,31.76,1.77,2021-10-06,Yes
+PRD-0025,Marlowe Dresse 0025,Apparel,Dresses,Vantia,34.47,16.39,0.65,2021-10-14,Yes
+PRD-0026,Auralis Footwear 0026,Apparel,Footwear,Northline,50.09,23.47,5.99,2022-10-05,Yes
+PRD-0027,Corvid Dresse 0027,Apparel,Dresses,Ferrix,87.46,38.58,5.29,2022-12-13,Yes
+PRD-0028,Solstice Footwear 0028,Apparel,Footwear,Brightfold,116.46,54.11,2.46,2023-08-09,Yes
+PRD-0029,Solstice Jacket 0029,Apparel,Jackets,Auralis,50.57,24.14,4.02,2023-05-28,Yes
+PRD-0030,Marlowe Jacket 0030,Apparel,Jackets,Ferrix,63.49,28.17,5.18,2021-08-20,Yes
+PRD-0031,Vantia Footwear 0031,Apparel,Footwear,Vantia,174.24,72.68,5.68,2022-12-13,Yes
+PRD-0032,Kestrel Jacket 0032,Apparel,Jackets,Marlowe,162.93,69.92,4.46,2023-07-06,Yes
+PRD-0033,Vantia Jacket 0033,Apparel,Jackets,Auralis,179.7,81.02,0.67,2023-08-05,Yes
+PRD-0034,Kestrel Dresse 0034,Apparel,Dresses,Tanuki,121.81,57.96,5.88,2023-04-17,Yes
+PRD-0035,Solstice Footwear 0035,Apparel,Footwear,Northline,94.03,45.68,0.11,2022-06-10,Yes
+PRD-0036,Marlowe Jacket 0036,Apparel,Jackets,Marlowe,77.35,35.61,1.88,2022-03-19,Yes
+PRD-0037,Tanuki Dresse 0037,Apparel,Dresses,Corvid,97.59,42.78,2.61,2022-04-12,Yes
+PRD-0038,Marlowe Dresse 0038,Apparel,Dresses,Vantia,89.22,38.96,4.67,2021-12-06,Yes
+PRD-0039,Northline Dresse 0039,Apparel,Dresses,Auralis,145.63,61.13,2.61,2023-04-15,Yes
+PRD-0040,Corvid Jacket 0040,Apparel,Jackets,Auralis,131.88,64.04,4.16,2022-04-13,Yes
+PRD-0041,Marlowe Dresse 0041,Apparel,Dresses,Brightfold,54.99,22.83,2.81,2023-05-15,Yes
+PRD-0042,Vantia Jacket 0042,Apparel,Jackets,Ferrix,136.49,56.66,1.38,2021-09-06,Yes
+PRD-0043,Tanuki T-Shirt 0043,Apparel,T-Shirts,Kestrel,69.1,30.69,2.5,2021-07-27,Yes
+PRD-0044,Auralis Dresse 0044,Apparel,Dresses,Corvid,26.65,12.59,1.85,2022-11-25,Yes
+PRD-0045,Auralis Footwear 0045,Apparel,Footwear,Marlowe,136.34,57.42,5.87,2021-12-29,No
+PRD-0046,Brightfold T-Shirt 0046,Apparel,T-Shirts,Kestrel,145.94,62.21,3.04,2022-03-25,Yes
+PRD-0047,Ferrix Jacket 0047,Apparel,Jackets,Solstice,154.05,72.94,3.22,2022-06-17,Yes
+PRD-0048,Tanuki Dresse 0048,Apparel,Dresses,Ferrix,82.52,37.5,4.74,2023-11-25,Yes
+PRD-0049,Vantia Jacket 0049,Apparel,Jackets,Tanuki,161.44,77.7,5.38,2023-05-16,Yes
+PRD-0050,Corvid Dresse 0050,Apparel,Dresses,Auralis,141.06,65.87,4.52,2022-11-29,Yes
+PRD-0051,Solstice Jacket 0051,Apparel,Jackets,Kestrel,114.09,48.44,0.33,2023-05-23,No
+PRD-0052,Tanuki T-Shirt 0052,Apparel,T-Shirts,Northline,55.83,23.87,2.28,2022-07-10,Yes
+PRD-0053,Tanuki Footwear 0053,Apparel,Footwear,Brightfold,33.97,14.16,4.53,2022-11-25,Yes
+PRD-0054,Solstice Footwear 0054,Apparel,Footwear,Corvid,167.49,76.85,1.32,2023-05-09,No
+PRD-0055,Kestrel Footwear 0055,Apparel,Footwear,Solstice,80.04,36.2,2.25,2021-09-07,Yes
+PRD-0056,Auralis Jacket 0056,Apparel,Jackets,Solstice,49.97,22.15,1.53,2022-07-01,Yes
+PRD-0057,Tanuki Dresse 0057,Apparel,Dresses,Marlowe,147.54,68.87,3.69,2021-10-27,Yes
+PRD-0058,Ferrix Dresse 0058,Apparel,Dresses,Corvid,172.46,77.07,5.86,2021-12-05,Yes
+PRD-0059,Solstice Jacket 0059,Apparel,Jackets,Northline,64.58,26.87,1.37,2021-08-15,Yes
+PRD-0060,Brightfold Footwear 0060,Apparel,Footwear,Tanuki,179.11,78.47,5.92,2023-04-28,Yes
+PRD-0061,Vantia Footwear 0061,Apparel,Footwear,Vantia,42.78,18.99,5.9,2023-05-15,Yes
+PRD-0062,Marlowe Dresse 0062,Apparel,Dresses,Marlowe,176.44,79.1,5.63,2021-10-31,Yes
+PRD-0063,Brightfold Footwear 0063,Apparel,Footwear,Marlowe,103.36,43.01,1.7,2023-03-15,Yes
+PRD-0064,Ferrix Jacket 0064,Apparel,Jackets,Solstice,98.47,41.1,4.91,2022-04-25,Yes
+PRD-0065,Solstice T-Shirt 0065,Apparel,T-Shirts,Brightfold,126.03,55.12,4.12,2023-12-20,No
+PRD-0066,Corvid Jacket 0066,Apparel,Jackets,Vantia,18.26,8.72,0.91,2021-08-18,Yes
+PRD-0067,Tanuki Footwear 0067,Apparel,Footwear,Solstice,132.14,61.22,1.44,2022-02-06,No
+PRD-0068,Tanuki T-Shirt 0068,Apparel,T-Shirts,Solstice,65.61,29.24,4.94,2023-01-05,Yes
+PRD-0069,Corvid T-Shirt 0069,Apparel,T-Shirts,Kestrel,110.52,46.78,1.8,2022-10-25,Yes
+PRD-0070,Marlowe Footwear 0070,Apparel,Footwear,Solstice,122.92,53.41,2.36,2022-02-17,Yes
+PRD-0071,Marlowe T-Shirt 0071,Apparel,T-Shirts,Corvid,70.54,32.0,3.71,2021-07-27,Yes
+PRD-0072,Marlowe Footwear 0072,Apparel,Footwear,Auralis,58.43,26.59,0.26,2022-06-29,Yes
+PRD-0073,Marlowe Footwear 0073,Apparel,Footwear,Marlowe,105.21,46.66,0.17,2023-06-09,Yes
+PRD-0074,Corvid Dresse 0074,Apparel,Dresses,Tanuki,179.9,80.02,3.56,2021-11-16,Yes
+PRD-0075,Vantia Dresse 0075,Apparel,Dresses,Vantia,106.51,48.86,0.54,2022-03-15,Yes
+PRD-0076,Corvid Dresse 0076,Apparel,Dresses,Auralis,162.91,73.59,2.58,2023-09-25,Yes
+PRD-0077,Brightfold Jacket 0077,Apparel,Jackets,Brightfold,119.95,52.92,2.59,2023-12-09,Yes
+PRD-0078,Kestrel Dresse 0078,Apparel,Dresses,Solstice,74.58,32.66,2.72,2022-11-05,Yes
+PRD-0079,Marlowe T-Shirt 0079,Apparel,T-Shirts,Brightfold,64.93,28.87,2.08,2023-03-23,Yes
+PRD-0080,Kestrel Footwear 0080,Apparel,Footwear,Vantia,19.4,9.38,2.59,2021-10-20,Yes
+PRD-0081,Kestrel T-Shirt 0081,Apparel,T-Shirts,Marlowe,129.84,56.94,3.64,2022-06-21,Yes
+PRD-0082,Northline Jacket 0082,Apparel,Jackets,Auralis,148.16,63.17,3.87,2022-12-20,Yes
+PRD-0083,Corvid Dresse 0083,Apparel,Dresses,Ferrix,82.45,35.04,5.95,2022-08-01,Yes
+PRD-0084,Ferrix Jacket 0084,Apparel,Jackets,Vantia,84.01,36.87,4.94,2023-02-05,Yes
+PRD-0085,Brightfold T-Shirt 0085,Apparel,T-Shirts,Vantia,28.27,13.13,3.96,2022-11-05,Yes
+PRD-0086,Brightfold Footwear 0086,Apparel,Footwear,Northline,142.3,66.86,2.26,2023-12-18,Yes
+PRD-0087,Kestrel T-Shirt 0087,Apparel,T-Shirts,Ferrix,151.31,65.79,0.79,2022-01-26,Yes
+PRD-0088,Ferrix Dresse 0088,Apparel,Dresses,Vantia,23.56,10.62,1.57,2022-12-05,Yes
+PRD-0089,Solstice Jacket 0089,Apparel,Jackets,Solstice,177.65,75.42,4.56,2022-07-18,Yes
+PRD-0090,Ferrix Jacket 0090,Apparel,Jackets,Kestrel,160.98,75.19,0.23,2022-05-31,Yes
+PRD-0091,Kestrel Camera 0091,Electronics,Cameras,Brightfold,411.86,308.94,2.05,2023-03-05,Yes
+PRD-0092,Marlowe Camera 0092,Electronics,Cameras,Kestrel,825.7,632.31,2.49,2022-12-24,No
+PRD-0093,Marlowe Wearable 0093,Electronics,Wearables,Kestrel,862.84,572.79,3.68,2023-11-29,Yes
+PRD-0094,Kestrel Camera 0094,Electronics,Cameras,Marlowe,811.56,576.76,3.22,2021-12-09,Yes
+PRD-0095,Solstice Wearable 0095,Electronics,Wearables,Solstice,367.32,277.33,5.94,2022-07-23,Yes
+PRD-0096,Auralis Camera 0096,Electronics,Cameras,Kestrel,517.36,362.94,1.22,2023-01-22,Yes
+PRD-0097,Brightfold Wearable 0097,Electronics,Wearables,Marlowe,898.66,608.47,2.46,2022-04-27,Yes
+PRD-0098,Northline Wearable 0098,Electronics,Wearables,Solstice,148.16,105.82,2.05,2023-08-27,Yes
+PRD-0099,Corvid Camera 0099,Electronics,Cameras,Corvid,426.39,314.79,4.04,2023-08-10,Yes
+PRD-0100,Solstice Accessorie 0100,Electronics,Accessories,Northline,522.93,387.1,3.61,2022-01-03,Yes
+PRD-0101,Ferrix Headphone 0101,Electronics,Headphones,Brightfold,168.07,127.47,3.6,2023-10-14,Yes
+PRD-0102,Marlowe Camera 0102,Electronics,Cameras,Tanuki,298.2,211.88,0.12,2022-07-09,No
+PRD-0103,Corvid Camera 0103,Electronics,Cameras,Tanuki,98.35,75.34,5.18,2023-06-27,Yes
+PRD-0104,Tanuki Camera 0104,Electronics,Cameras,Tanuki,158.39,122.17,0.4,2021-10-27,Yes
+PRD-0105,Corvid Wearable 0105,Electronics,Wearables,Ferrix,768.73,577.6,1.17,2022-10-23,Yes
+PRD-0106,Brightfold Accessorie 0106,Electronics,Accessories,Solstice,653.91,478.13,5.07,2022-01-10,Yes
+PRD-0107,Kestrel Wearable 0107,Electronics,Wearables,Kestrel,220.46,156.84,0.72,2022-08-21,Yes
+PRD-0108,Vantia Headphone 0108,Electronics,Headphones,Tanuki,204.12,135.33,1.88,2021-09-12,Yes
+PRD-0109,Vantia Headphone 0109,Electronics,Headphones,Brightfold,450.74,322.61,5.64,2022-04-13,No
+PRD-0110,Tanuki Wearable 0110,Electronics,Wearables,Vantia,709.44,522.45,4.87,2022-05-06,Yes
+PRD-0111,Corvid Wearable 0111,Electronics,Wearables,Solstice,87.6,63.71,1.22,2021-08-31,Yes
+PRD-0112,Vantia Headphone 0112,Electronics,Headphones,Marlowe,819.88,620.7,1.47,2022-05-18,Yes
+PRD-0113,Tanuki Headphone 0113,Electronics,Headphones,Ferrix,117.33,88.75,3.06,2022-06-23,Yes
+PRD-0114,Corvid Camera 0114,Electronics,Cameras,Ferrix,277.38,207.36,5.19,2021-07-31,Yes
+PRD-0115,Marlowe Wearable 0115,Electronics,Wearables,Northline,366.39,267.68,0.35,2022-09-17,Yes
+PRD-0116,Kestrel Wearable 0116,Electronics,Wearables,Northline,51.63,35.55,0.79,2021-12-20,Yes
+PRD-0117,Kestrel Wearable 0117,Electronics,Wearables,Tanuki,131.0,95.91,4.4,2023-11-01,Yes
+PRD-0118,Corvid Headphone 0118,Electronics,Headphones,Ferrix,887.69,602.62,3.76,2021-07-20,Yes
+PRD-0119,Brightfold Camera 0119,Electronics,Cameras,Corvid,333.76,238.62,4.87,2023-05-18,Yes
+PRD-0120,Northline Accessorie 0120,Electronics,Accessories,Tanuki,322.28,243.37,3.28,2022-11-16,Yes
+PRD-0121,Kestrel Wearable 0121,Electronics,Wearables,Marlowe,495.1,342.58,5.43,2023-05-09,Yes
+PRD-0122,Ferrix Headphone 0122,Electronics,Headphones,Tanuki,740.2,561.49,0.4,2023-09-21,Yes
+PRD-0123,Solstice Wearable 0123,Electronics,Wearables,Solstice,847.11,649.92,4.51,2022-10-12,Yes
+PRD-0124,Kestrel Headphone 0124,Electronics,Headphones,Marlowe,219.81,167.55,4.17,2021-08-07,No
+PRD-0125,Marlowe Wearable 0125,Electronics,Wearables,Brightfold,670.06,513.55,0.68,2023-01-04,Yes
+PRD-0126,Brightfold Wearable 0126,Electronics,Wearables,Solstice,78.75,60.77,5.5,2023-12-31,Yes
+PRD-0127,Vantia Accessorie 0127,Electronics,Accessories,Marlowe,358.07,255.85,5.42,2023-02-22,Yes
+PRD-0128,Marlowe Wearable 0128,Electronics,Wearables,Marlowe,403.18,274.61,0.82,2023-08-15,Yes
+PRD-0129,Solstice Headphone 0129,Electronics,Headphones,Brightfold,273.2,186.69,2.99,2022-01-05,Yes
+PRD-0130,Tanuki Camera 0130,Electronics,Cameras,Marlowe,403.51,307.26,3.76,2023-04-13,Yes
+PRD-0131,Kestrel Camera 0131,Electronics,Cameras,Auralis,397.32,283.06,4.72,2023-01-04,Yes
+PRD-0132,Auralis Camera 0132,Electronics,Cameras,Auralis,825.34,598.83,3.69,2021-08-17,Yes
+PRD-0133,Ferrix Headphone 0133,Electronics,Headphones,Vantia,875.59,615.91,0.36,2022-09-30,Yes
+PRD-0134,Ferrix Wearable 0134,Electronics,Wearables,Tanuki,286.59,203.97,3.69,2021-09-01,Yes
+PRD-0135,Ferrix Wearable 0135,Electronics,Wearables,Kestrel,70.41,47.15,4.21,2023-08-30,Yes
+PRD-0136,Ferrix Camera 0136,Electronics,Cameras,Corvid,136.11,93.45,4.74,2023-12-07,Yes
+PRD-0137,Corvid Accessorie 0137,Electronics,Accessories,Tanuki,374.4,270.18,4.68,2022-06-06,Yes
+PRD-0138,Kestrel Headphone 0138,Electronics,Headphones,Auralis,384.24,269.28,0.94,2023-02-18,Yes
+PRD-0139,Solstice Wearable 0139,Electronics,Wearables,Auralis,647.46,433.41,3.2,2022-09-28,Yes
+PRD-0140,Northline Accessorie 0140,Electronics,Accessories,Vantia,284.32,212.97,4.2,2022-01-20,Yes
+PRD-0141,Brightfold Headphone 0141,Electronics,Headphones,Vantia,403.81,276.88,4.26,2022-07-06,Yes
+PRD-0142,Marlowe Wearable 0142,Electronics,Wearables,Brightfold,265.0,175.59,2.7,2022-09-11,Yes
+PRD-0143,Marlowe Accessorie 0143,Electronics,Accessories,Solstice,137.21,91.48,2.55,2023-04-12,Yes
+PRD-0144,Northline Camera 0144,Electronics,Cameras,Tanuki,441.03,332.16,5.45,2023-11-25,Yes
+PRD-0145,Ferrix Camera 0145,Electronics,Cameras,Vantia,371.34,281.67,2.26,2021-10-01,Yes
+PRD-0146,Ferrix Camera 0146,Electronics,Cameras,Vantia,499.87,332.79,5.48,2023-02-03,Yes
+PRD-0147,Tanuki Accessorie 0147,Electronics,Accessories,Tanuki,574.61,413.66,4.85,2022-04-14,Yes
+PRD-0148,Auralis Headphone 0148,Electronics,Headphones,Northline,123.59,89.29,0.51,2021-10-11,Yes
+PRD-0149,Solstice Headphone 0149,Electronics,Headphones,Northline,86.15,58.98,0.21,2022-04-02,Yes
+PRD-0150,Corvid Camera 0150,Electronics,Cameras,Marlowe,528.69,361.92,4.37,2021-12-26,Yes
+PRD-0151,Marlowe Camera 0151,Electronics,Cameras,Brightfold,85.87,65.04,0.37,2022-02-14,Yes
+PRD-0152,Marlowe Camera 0152,Electronics,Cameras,Marlowe,802.5,624.02,3.69,2023-04-13,No
+PRD-0153,Ferrix Accessorie 0153,Electronics,Accessories,Kestrel,618.53,464.92,3.56,2022-05-24,Yes
+PRD-0154,Corvid Accessorie 0154,Electronics,Accessories,Auralis,239.61,177.2,1.16,2022-11-10,Yes
+PRD-0155,Brightfold Accessorie 0155,Electronics,Accessories,Marlowe,356.7,241.14,4.72,2023-01-28,Yes
+PRD-0156,Brightfold Headphone 0156,Electronics,Headphones,Ferrix,178.05,125.72,4.09,2022-05-31,Yes
+PRD-0157,Auralis Camera 0157,Electronics,Cameras,Marlowe,466.73,346.53,0.37,2021-11-01,Yes
+PRD-0158,Tanuki Camera 0158,Electronics,Cameras,Marlowe,44.43,31.12,5.49,2022-11-15,Yes
+PRD-0159,Northline Wearable 0159,Electronics,Wearables,Brightfold,802.07,608.72,0.1,2021-09-08,Yes
+PRD-0160,Kestrel Camera 0160,Electronics,Cameras,Auralis,555.45,385.72,4.84,2021-09-03,Yes
+PRD-0161,Ferrix Headphone 0161,Electronics,Headphones,Vantia,276.86,197.68,1.5,2022-05-04,Yes
+PRD-0162,Brightfold Camera 0162,Electronics,Cameras,Marlowe,183.57,127.79,4.16,2021-10-03,Yes
+PRD-0163,Tanuki Accessorie 0163,Electronics,Accessories,Corvid,624.09,462.64,3.96,2023-01-10,Yes
+PRD-0164,Kestrel Camera 0164,Electronics,Cameras,Tanuki,405.94,306.97,2.02,2023-11-06,Yes
+PRD-0165,Corvid Accessorie 0165,Electronics,Accessories,Marlowe,378.56,289.61,1.31,2021-10-17,Yes
+PRD-0166,Corvid Storage 0166,Home & Kitchen,Storage,Brightfold,67.99,39.65,3.55,2023-06-03,Yes
+PRD-0167,Auralis Textile 0167,Home & Kitchen,Textiles,Tanuki,81.65,48.58,2.24,2022-05-26,No
+PRD-0168,Vantia Cookware 0168,Home & Kitchen,Cookware,Brightfold,202.07,116.75,0.68,2022-01-30,Yes
+PRD-0169,Vantia Textile 0169,Home & Kitchen,Textiles,Marlowe,42.07,23.72,3.36,2023-07-16,Yes
+PRD-0170,Corvid Cookware 0170,Home & Kitchen,Cookware,Solstice,227.09,130.54,2.1,2022-11-13,Yes
+PRD-0171,Brightfold Storage 0171,Home & Kitchen,Storage,Marlowe,177.74,102.97,5.57,2022-02-25,Yes
+PRD-0172,Tanuki Lighting 0172,Home & Kitchen,Lighting,Corvid,201.36,111.68,2.18,2023-11-11,Yes
+PRD-0173,Marlowe Storage 0173,Home & Kitchen,Storage,Kestrel,44.34,26.0,0.33,2022-03-19,Yes
+PRD-0174,Solstice Storage 0174,Home & Kitchen,Storage,Corvid,106.94,57.73,0.84,2023-03-22,Yes
+PRD-0175,Vantia Storage 0175,Home & Kitchen,Storage,Solstice,17.72,10.49,4.93,2021-08-03,Yes
+PRD-0176,Northline Lighting 0176,Home & Kitchen,Lighting,Kestrel,22.09,12.95,2.66,2023-04-19,Yes
+PRD-0177,Corvid Cookware 0177,Home & Kitchen,Cookware,Auralis,22.84,12.52,3.58,2021-07-23,Yes
+PRD-0178,Northline Lighting 0178,Home & Kitchen,Lighting,Solstice,17.21,9.95,2.34,2021-10-04,Yes
+PRD-0179,Northline Storage 0179,Home & Kitchen,Storage,Tanuki,197.65,108.38,2.37,2021-10-24,Yes
+PRD-0180,Corvid Lighting 0180,Home & Kitchen,Lighting,Marlowe,232.14,127.67,2.93,2023-09-09,Yes
+PRD-0181,Tanuki Lighting 0181,Home & Kitchen,Lighting,Auralis,131.5,74.28,0.92,2021-12-16,Yes
+PRD-0182,Marlowe Textile 0182,Home & Kitchen,Textiles,Vantia,121.34,71.74,2.0,2022-07-30,Yes
+PRD-0183,Northline Cookware 0183,Home & Kitchen,Cookware,Vantia,239.02,138.98,4.43,2021-09-03,Yes
+PRD-0184,Brightfold Textile 0184,Home & Kitchen,Textiles,Tanuki,155.53,85.17,4.4,2021-12-04,No
+PRD-0185,Brightfold Textile 0185,Home & Kitchen,Textiles,Northline,234.31,123.67,5.93,2023-12-19,Yes
+PRD-0186,Auralis Textile 0186,Home & Kitchen,Textiles,Brightfold,107.73,59.71,3.13,2022-07-18,Yes
+PRD-0187,Northline Textile 0187,Home & Kitchen,Textiles,Brightfold,44.91,24.53,5.85,2023-06-23,Yes
+PRD-0188,Auralis Cookware 0188,Home & Kitchen,Cookware,Solstice,110.25,64.43,0.7,2022-03-18,No
+PRD-0189,Vantia Storage 0189,Home & Kitchen,Storage,Ferrix,120.69,68.28,5.58,2023-04-04,Yes
+PRD-0190,Marlowe Storage 0190,Home & Kitchen,Storage,Northline,138.25,73.83,5.48,2022-08-10,Yes
+PRD-0191,Auralis Storage 0191,Home & Kitchen,Storage,Corvid,125.31,71.41,2.46,2022-09-11,Yes
+PRD-0192,Corvid Textile 0192,Home & Kitchen,Textiles,Solstice,16.9,9.18,2.39,2023-02-18,Yes
+PRD-0193,Brightfold Storage 0193,Home & Kitchen,Storage,Auralis,115.24,61.09,3.86,2021-09-06,Yes
+PRD-0194,Solstice Cookware 0194,Home & Kitchen,Cookware,Vantia,79.26,42.31,4.14,2021-10-04,Yes
+PRD-0195,Kestrel Textile 0195,Home & Kitchen,Textiles,Auralis,146.29,82.98,5.27,2022-01-19,Yes
+PRD-0196,Northline Storage 0196,Home & Kitchen,Storage,Northline,143.72,82.99,4.16,2022-12-05,Yes
+PRD-0197,Brightfold Cookware 0197,Home & Kitchen,Cookware,Tanuki,185.76,99.2,0.45,2022-09-08,Yes
+PRD-0198,Marlowe Lighting 0198,Home & Kitchen,Lighting,Brightfold,199.47,119.39,5.4,2022-11-25,Yes
+PRD-0199,Corvid Textile 0199,Home & Kitchen,Textiles,Kestrel,94.68,54.4,2.46,2022-07-03,Yes
+PRD-0200,Marlowe Textile 0200,Home & Kitchen,Textiles,Marlowe,195.36,101.71,3.28,2022-04-05,Yes
+PRD-0201,Northline Cookware 0201,Home & Kitchen,Cookware,Marlowe,214.05,123.07,1.79,2023-02-15,Yes
+PRD-0202,Brightfold Lighting 0202,Home & Kitchen,Lighting,Ferrix,83.44,48.11,1.46,2023-09-21,Yes
+PRD-0203,Tanuki Lighting 0203,Home & Kitchen,Lighting,Marlowe,12.31,6.96,3.91,2022-09-25,Yes
+PRD-0204,Tanuki Lighting 0204,Home & Kitchen,Lighting,Kestrel,120.83,63.47,5.36,2022-04-14,Yes
+PRD-0205,Vantia Cookware 0205,Home & Kitchen,Cookware,Auralis,176.7,100.72,4.73,2022-10-26,No
+PRD-0206,Marlowe Storage 0206,Home & Kitchen,Storage,Corvid,38.23,21.49,0.22,2023-04-18,Yes
+PRD-0207,Ferrix Textile 0207,Home & Kitchen,Textiles,Corvid,40.15,20.69,3.38,2022-12-28,Yes
+PRD-0208,Solstice Storage 0208,Home & Kitchen,Storage,Kestrel,228.0,122.4,2.1,2023-12-11,Yes
+PRD-0209,Kestrel Lighting 0209,Home & Kitchen,Lighting,Auralis,251.77,151.58,4.24,2023-11-03,Yes
+PRD-0210,Brightfold Cookware 0210,Home & Kitchen,Cookware,Marlowe,26.11,14.24,3.26,2023-12-24,Yes
+PRD-0211,Marlowe Haircare 0211,Beauty,Haircare,Vantia,20.95,8.45,3.61,2022-12-28,Yes
+PRD-0212,Brightfold Skincare 0212,Beauty,Skincare,Northline,26.81,9.41,1.1,2023-03-21,Yes
+PRD-0213,Kestrel Skincare 0213,Beauty,Skincare,Vantia,97.64,37.8,5.14,2023-02-20,Yes
+PRD-0214,Kestrel Haircare 0214,Beauty,Haircare,Corvid,18.38,7.03,0.43,2022-05-11,Yes
+PRD-0215,Kestrel Fragrance 0215,Beauty,Fragrance,Brightfold,124.12,47.94,3.39,2021-12-22,Yes
+PRD-0216,Auralis Fragrance 0216,Beauty,Fragrance,Vantia,111.92,41.54,4.05,2023-04-01,Yes
+PRD-0217,Auralis Haircare 0217,Beauty,Haircare,Corvid,120.79,46.38,0.82,2023-02-22,Yes
+PRD-0218,Marlowe Haircare 0218,Beauty,Haircare,Brightfold,46.17,17.89,1.29,2023-07-20,Yes
+PRD-0219,Ferrix Haircare 0219,Beauty,Haircare,Vantia,126.48,49.31,2.06,2023-02-13,Yes
+PRD-0220,Ferrix Haircare 0220,Beauty,Haircare,Brightfold,19.63,7.89,1.74,2022-12-23,Yes
+PRD-0221,Solstice Fragrance 0221,Beauty,Fragrance,Tanuki,76.47,29.55,3.15,2023-11-01,Yes
+PRD-0222,Tanuki Skincare 0222,Beauty,Skincare,Northline,135.43,54.54,4.75,2022-04-06,Yes
+PRD-0223,Auralis Skincare 0223,Beauty,Skincare,Northline,25.7,9.02,5.44,2022-01-21,Yes
+PRD-0224,Northline Skincare 0224,Beauty,Skincare,Kestrel,27.8,11.06,0.66,2021-12-20,Yes
+PRD-0225,Corvid Fragrance 0225,Beauty,Fragrance,Solstice,36.48,14.13,4.67,2021-11-12,Yes
+PRD-0226,Marlowe Fragrance 0226,Beauty,Fragrance,Corvid,84.53,33.68,0.16,2022-12-10,Yes
+PRD-0227,Brightfold Fragrance 0227,Beauty,Fragrance,Brightfold,44.9,17.93,2.88,2021-07-26,Yes
+PRD-0228,Northline Skincare 0228,Beauty,Skincare,Corvid,34.02,12.48,1.16,2023-02-12,Yes
+PRD-0229,Northline Skincare 0229,Beauty,Skincare,Northline,21.79,8.42,5.07,2021-12-12,Yes
+PRD-0230,Vantia Skincare 0230,Beauty,Skincare,Northline,95.95,35.68,3.52,2023-08-28,Yes
+PRD-0231,Brightfold Skincare 0231,Beauty,Skincare,Solstice,112.72,46.1,2.25,2023-09-08,Yes
+PRD-0232,Kestrel Fragrance 0232,Beauty,Fragrance,Tanuki,96.45,34.33,2.05,2022-01-22,Yes
+PRD-0233,Tanuki Skincare 0233,Beauty,Skincare,Marlowe,109.31,38.75,5.41,2023-07-18,No
+PRD-0234,Auralis Skincare 0234,Beauty,Skincare,Northline,33.99,13.3,3.78,2021-08-15,Yes
+PRD-0235,Northline Fragrance 0235,Beauty,Fragrance,Ferrix,61.58,22.43,5.79,2022-02-19,Yes
+PRD-0236,Tanuki Skincare 0236,Beauty,Skincare,Vantia,108.96,38.93,1.28,2023-04-28,Yes
+PRD-0237,Kestrel Fragrance 0237,Beauty,Fragrance,Kestrel,24.62,9.96,2.6,2023-04-09,Yes
+PRD-0238,Solstice Fragrance 0238,Beauty,Fragrance,Northline,66.38,24.18,5.54,2023-10-15,Yes
+PRD-0239,Marlowe Haircare 0239,Beauty,Haircare,Tanuki,104.24,37.15,1.74,2022-04-08,Yes
+PRD-0240,Northline Fragrance 0240,Beauty,Fragrance,Northline,61.83,21.68,2.77,2023-02-16,Yes
+PRD-0241,Auralis Fragrance 0241,Beauty,Fragrance,Brightfold,90.62,32.31,1.36,2022-12-19,Yes
+PRD-0242,Corvid Fragrance 0242,Beauty,Fragrance,Auralis,26.41,10.35,5.9,2022-05-30,Yes
+PRD-0243,Vantia Fragrance 0243,Beauty,Fragrance,Solstice,10.4,4.12,5.21,2023-07-08,Yes
+PRD-0244,Auralis Haircare 0244,Beauty,Haircare,Corvid,81.55,31.19,5.99,2022-03-22,Yes
+PRD-0245,Ferrix Haircare 0245,Beauty,Haircare,Vantia,111.74,41.89,0.68,2023-05-15,Yes
+PRD-0246,Marlowe Haircare 0246,Beauty,Haircare,Tanuki,60.28,23.17,3.95,2023-05-07,Yes
+PRD-0247,Kestrel Haircare 0247,Beauty,Haircare,Auralis,87.16,35.02,1.16,2023-12-17,Yes
+PRD-0248,Marlowe Skincare 0248,Beauty,Skincare,Brightfold,75.72,29.79,3.39,2022-06-02,Yes
+PRD-0249,Corvid Fragrance 0249,Beauty,Fragrance,Tanuki,120.36,43.53,4.03,2022-04-01,Yes
+PRD-0250,Auralis Fragrance 0250,Beauty,Fragrance,Tanuki,77.81,29.94,4.33,2022-06-04,Yes
+PRD-0251,Tanuki Fragrance 0251,Beauty,Fragrance,Solstice,61.52,22.55,4.04,2022-12-22,Yes
+PRD-0252,Marlowe Skincare 0252,Beauty,Skincare,Marlowe,84.5,34.4,0.42,2022-10-28,Yes
+PRD-0253,Brightfold Skincare 0253,Beauty,Skincare,Northline,80.75,30.2,1.77,2023-10-21,Yes
+PRD-0254,Corvid Fragrance 0254,Beauty,Fragrance,Ferrix,97.72,34.48,5.86,2022-10-03,Yes
+PRD-0255,Kestrel Skincare 0255,Beauty,Skincare,Marlowe,102.27,41.77,2.58,2023-03-11,Yes
+PRD-0256,Tanuki Cycling 0256,Sports,Cycling,Auralis,25.11,15.27,2.15,2022-04-06,Yes
+PRD-0257,Marlowe Outdoor 0257,Sports,Outdoor,Marlowe,62.56,35.92,4.66,2022-02-11,Yes
+PRD-0258,Kestrel Fitnes 0258,Sports,Fitness,Tanuki,152.11,91.49,5.88,2022-06-13,Yes
+PRD-0259,Solstice Fitnes 0259,Sports,Fitness,Ferrix,411.13,242.31,2.4,2021-10-03,Yes
+PRD-0260,Brightfold Fitnes 0260,Sports,Fitness,Northline,323.02,204.7,5.92,2022-04-29,Yes
+PRD-0261,Corvid Fitnes 0261,Sports,Fitness,Vantia,309.27,173.0,5.44,2022-05-07,Yes
+PRD-0262,Solstice Cycling 0262,Sports,Cycling,Ferrix,97.43,53.61,2.38,2022-12-18,Yes
+PRD-0263,Vantia Cycling 0263,Sports,Cycling,Ferrix,406.69,221.09,2.66,2022-12-21,Yes
+PRD-0264,Kestrel Outdoor 0264,Sports,Outdoor,Ferrix,240.33,135.66,5.11,2023-09-17,Yes
+PRD-0265,Vantia Fitnes 0265,Sports,Fitness,Marlowe,17.94,10.11,0.98,2021-07-17,Yes
+PRD-0266,Ferrix Fitnes 0266,Sports,Fitness,Solstice,334.85,195.0,0.81,2021-12-25,Yes
+PRD-0267,Auralis Outdoor 0267,Sports,Outdoor,Ferrix,375.57,210.01,1.45,2022-05-19,Yes
+PRD-0268,Tanuki Outdoor 0268,Sports,Outdoor,Corvid,176.03,98.35,5.78,2023-04-06,Yes
+PRD-0269,Kestrel Fitnes 0269,Sports,Fitness,Solstice,108.8,66.03,0.56,2022-03-30,Yes
+PRD-0270,Kestrel Fitnes 0270,Sports,Fitness,Vantia,190.11,106.76,1.87,2022-10-23,Yes
+PRD-0271,Corvid Fitnes 0271,Sports,Fitness,Ferrix,119.89,76.11,5.32,2023-08-15,Yes
+PRD-0272,Ferrix Cycling 0272,Sports,Cycling,Northline,195.73,114.12,3.28,2022-06-07,Yes
+PRD-0273,Tanuki Outdoor 0273,Sports,Outdoor,Solstice,295.13,164.95,4.7,2023-04-17,Yes
+PRD-0274,Vantia Cycling 0274,Sports,Cycling,Auralis,191.09,110.8,1.19,2022-10-21,Yes
+PRD-0275,Ferrix Cycling 0275,Sports,Cycling,Solstice,327.13,183.8,5.61,2022-05-02,Yes
+PRD-0276,Tanuki Cycling 0276,Sports,Cycling,Kestrel,391.01,230.72,2.3,2022-06-29,Yes
+PRD-0277,Northline Cycling 0277,Sports,Cycling,Kestrel,326.08,198.31,2.25,2022-12-17,Yes
+PRD-0278,Solstice Outdoor 0278,Sports,Outdoor,Brightfold,346.82,196.55,0.34,2022-08-21,Yes
+PRD-0279,Brightfold Cycling 0279,Sports,Cycling,Corvid,266.07,146.51,1.96,2023-09-01,Yes
+PRD-0280,Tanuki Cycling 0280,Sports,Cycling,Brightfold,217.34,134.54,4.96,2021-12-20,Yes
+PRD-0281,Corvid Outdoor 0281,Sports,Outdoor,Corvid,115.11,62.81,4.23,2023-12-12,Yes
+PRD-0282,Auralis Fitnes 0282,Sports,Fitness,Brightfold,391.92,221.66,0.29,2023-02-07,Yes
+PRD-0283,Tanuki Outdoor 0283,Sports,Outdoor,Auralis,251.99,159.38,1.45,2023-09-07,Yes
+PRD-0284,Marlowe Cycling 0284,Sports,Cycling,Vantia,45.13,27.57,0.37,2022-09-18,Yes
+PRD-0285,Solstice Cycling 0285,Sports,Cycling,Solstice,265.82,146.05,2.47,2023-06-07,Yes
+PRD-0286,Corvid Fitnes 0286,Sports,Fitness,Auralis,310.98,184.13,4.55,2022-09-04,Yes
+PRD-0287,Kestrel Outdoor 0287,Sports,Outdoor,Kestrel,382.85,230.11,5.64,2023-05-24,Yes
+PRD-0288,Vantia Cycling 0288,Sports,Cycling,Northline,354.75,201.64,5.02,2023-07-11,Yes
+PRD-0289,Corvid Fitnes 0289,Sports,Fitness,Northline,92.64,51.21,2.6,2021-10-18,Yes
+PRD-0290,Corvid Cycling 0290,Sports,Cycling,Auralis,418.66,232.07,3.8,2023-07-26,Yes
+PRD-0291,Northline Outdoor 0291,Sports,Outdoor,Vantia,142.91,89.76,0.43,2023-05-03,Yes
+PRD-0292,Tanuki Outdoor 0292,Sports,Outdoor,Tanuki,80.65,48.47,4.03,2021-09-29,No
+PRD-0293,Tanuki Cycling 0293,Sports,Cycling,Corvid,71.44,43.49,4.46,2021-10-03,Yes
+PRD-0294,Brightfold Outdoor 0294,Sports,Outdoor,Northline,387.75,244.58,5.67,2023-01-26,Yes
+PRD-0295,Brightfold Cycling 0295,Sports,Cycling,Auralis,178.78,100.07,2.83,2022-09-23,Yes
+PRD-0296,Corvid Cycling 0296,Sports,Cycling,Corvid,67.75,39.52,0.14,2023-01-28,Yes
+PRD-0297,Corvid Outdoor 0297,Sports,Outdoor,Tanuki,49.4,28.29,2.13,2021-11-17,Yes
+PRD-0298,Brightfold Outdoor 0298,Sports,Outdoor,Corvid,188.98,112.57,5.38,2021-10-28,Yes
+PRD-0299,Solstice Outdoor 0299,Sports,Outdoor,Auralis,88.09,47.88,3.56,2022-05-03,Yes
+PRD-0300,Brightfold Fitnes 0300,Sports,Fitness,Corvid,369.36,218.97,3.74,2023-10-04,Yes
+PRD-0301,Brightfold Building Set 0301,Toys & Games,Building Sets,Tanuki,70.64,35.15,2.34,2023-02-19,Yes
+PRD-0302,Vantia Plush 0302,Toys & Games,Plush,Kestrel,44.15,24.27,4.97,2022-08-15,Yes
+PRD-0303,Brightfold Board Game 0303,Toys & Games,Board Games,Ferrix,31.14,15.11,0.67,2023-04-14,Yes
+PRD-0304,Vantia Plush 0304,Toys & Games,Plush,Kestrel,65.11,34.59,0.3,2023-02-01,Yes
+PRD-0305,Corvid Board Game 0305,Toys & Games,Board Games,Auralis,51.59,25.19,1.95,2022-07-30,Yes
+PRD-0306,Kestrel Building Set 0306,Toys & Games,Building Sets,Tanuki,53.84,26.7,2.9,2023-07-28,Yes
+PRD-0307,Corvid Board Game 0307,Toys & Games,Board Games,Northline,109.49,53.06,4.55,2023-09-19,Yes
+PRD-0308,Kestrel Board Game 0308,Toys & Games,Board Games,Marlowe,82.32,45.85,1.1,2021-08-16,Yes
+PRD-0309,Solstice Building Set 0309,Toys & Games,Building Sets,Northline,20.86,11.62,1.96,2023-11-21,Yes
+PRD-0310,Ferrix Plush 0310,Toys & Games,Plush,Corvid,44.21,23.05,1.17,2021-08-22,Yes
+PRD-0311,Kestrel Plush 0311,Toys & Games,Plush,Brightfold,96.79,53.6,1.46,2022-09-13,Yes
+PRD-0312,Northline Plush 0312,Toys & Games,Plush,Auralis,99.92,50.3,4.89,2023-03-01,Yes
+PRD-0313,Northline Plush 0313,Toys & Games,Plush,Corvid,25.97,12.76,2.67,2023-06-21,No
+PRD-0314,Kestrel Building Set 0314,Toys & Games,Building Sets,Marlowe,51.57,24.86,1.1,2023-02-11,Yes
+PRD-0315,Northline Board Game 0315,Toys & Games,Board Games,Marlowe,81.49,40.22,4.0,2022-01-31,Yes
+PRD-0316,Solstice Board Game 0316,Toys & Games,Board Games,Vantia,24.56,12.95,5.74,2023-06-07,Yes
+PRD-0317,Vantia Plush 0317,Toys & Games,Plush,Kestrel,70.31,38.54,0.91,2023-12-30,Yes
+PRD-0318,Kestrel Building Set 0318,Toys & Games,Building Sets,Auralis,101.55,55.84,0.98,2021-10-30,Yes
+PRD-0319,Brightfold Board Game 0319,Toys & Games,Board Games,Marlowe,16.11,7.77,2.61,2021-09-23,Yes
+PRD-0320,Solstice Plush 0320,Toys & Games,Plush,Auralis,21.93,10.74,3.46,2021-08-16,Yes
+PRD-0321,Kestrel Building Set 0321,Toys & Games,Building Sets,Northline,67.62,33.75,3.25,2021-09-20,No
+PRD-0322,Auralis Plush 0322,Toys & Games,Plush,Ferrix,88.06,48.26,1.5,2023-05-27,Yes
+PRD-0323,Corvid Building Set 0323,Toys & Games,Building Sets,Solstice,111.39,60.93,5.41,2022-03-17,Yes
+PRD-0324,Solstice Board Game 0324,Toys & Games,Board Games,Corvid,78.2,38.76,5.95,2022-11-05,Yes
+PRD-0325,Tanuki Board Game 0325,Toys & Games,Board Games,Solstice,88.49,45.82,5.54,2023-08-08,Yes
+PRD-0326,Corvid Building Set 0326,Toys & Games,Building Sets,Corvid,49.42,25.39,3.6,2023-09-12,Yes
+PRD-0327,Corvid Building Set 0327,Toys & Games,Building Sets,Ferrix,52.16,28.88,3.63,2022-02-14,Yes
+PRD-0328,Brightfold Building Set 0328,Toys & Games,Building Sets,Northline,91.66,44.86,5.35,2021-12-18,Yes
+PRD-0329,Kestrel Plush 0329,Toys & Games,Plush,Marlowe,47.31,23.42,2.34,2021-11-18,Yes
+PRD-0330,Auralis Plush 0330,Toys & Games,Plush,Northline,60.54,29.53,0.87,2022-06-28,Yes
+PRD-0331,Kestrel Board Game 0331,Toys & Games,Board Games,Corvid,46.61,24.89,3.18,2021-08-20,Yes
+PRD-0332,Auralis Board Game 0332,Toys & Games,Board Games,Corvid,34.56,19.02,1.64,2021-08-13,Yes
+PRD-0333,Vantia Board Game 0333,Toys & Games,Board Games,Tanuki,64.22,33.63,4.42,2023-05-20,Yes
+PRD-0334,Brightfold Board Game 0334,Toys & Games,Board Games,Brightfold,91.26,47.77,0.37,2022-09-14,Yes
+PRD-0335,Solstice Plush 0335,Toys & Games,Plush,Corvid,75.23,39.08,2.33,2022-01-28,Yes
+PRD-0336,Northline Plush 0336,Toys & Games,Plush,Auralis,98.66,52.74,1.18,2021-12-24,Yes
+PRD-0337,Solstice Board Game 0337,Toys & Games,Board Games,Kestrel,33.14,16.26,2.88,2023-05-18,Yes
+PRD-0338,Corvid Building Set 0338,Toys & Games,Building Sets,Marlowe,98.36,47.79,3.64,2023-06-25,Yes
+PRD-0339,Tanuki Board Game 0339,Toys & Games,Board Games,Brightfold,18.05,9.74,4.7,2023-12-04,Yes
+PRD-0340,Auralis Board Game 0340,Toys & Games,Board Games,Brightfold,56.28,29.73,3.04,2023-08-26,No
+PRD-0341,Solstice Building Set 0341,Toys & Games,Building Sets,Ferrix,67.68,32.99,0.83,2022-06-08,Yes
+PRD-0342,Brightfold Plush 0342,Toys & Games,Plush,Corvid,88.19,49.26,2.95,2023-06-28,Yes
+PRD-0343,Corvid Plush 0343,Toys & Games,Plush,Brightfold,40.65,21.64,3.15,2023-07-19,Yes
+PRD-0344,Vantia Plush 0344,Toys & Games,Plush,Tanuki,106.39,55.32,0.88,2022-02-22,Yes
+PRD-0345,Solstice Board Game 0345,Toys & Games,Board Games,Vantia,74.67,39.06,0.8,2023-12-30,Yes
